@@ -83,6 +83,14 @@ a {
   width: 1000px;
 }
 
+#head {
+  margin-top: 40px;
+}
+
+#bottomrow {
+  margin-bottom: 40px;
+}
+
 #toprow div, #bottomrow div {
   padding: 0 25px;
 }

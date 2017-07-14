@@ -11,6 +11,8 @@ body {
   text-align: center;
 }
 
+/*HEADER*/
+
 .header {
   background-color: black;
   display: flex;
@@ -35,9 +37,13 @@ a {
   padding: 10px;
 }
 
+/*MAIN CONTENT*/
+
 .body {
   padding-top:54px;
 }
+
+/*MISSION SECTION*/
 
 #mission {
   display: flex;
@@ -68,6 +74,8 @@ a {
   margin-bottom: 0;
   padding: 10px;
 }
+
+/*FEATURED SECTION*/
 
 #featured {
   display: flex;
